@@ -22,4 +22,4 @@ Please follow the goose CLI installation guide before using the script
 
 https://block.github.io/goose/docs/quickstart/
 
-After downloading goose and configuring the LLM model you want to use please add the "helpme" script to your .local/python/bin folder for ease of access
+After downloading goose and configuring the LLM model you want to use please add the "helpme" script to your `.local/python/bin` folder for ease of access
